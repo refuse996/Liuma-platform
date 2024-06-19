@@ -16,7 +16,7 @@
     "http-proxy-middleware": "^0.18.0",
     "jmuxer": "^2.0.5",
     "jquery": "^3.6.3",
-    "js-md5": "^0.7.3",
+    "js-md5": "^0.8.3",
     "jsoneditor": "^9.5.3",
     "sortablejs": "^1.14.0",
     "vconsole": "^3.9.1",
